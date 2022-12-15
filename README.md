@@ -13,6 +13,10 @@ Horários: terças e quintas 14:30 às 16:30.
 
 Calendário UFSM: https://www.ufsm.br/calendario/
 
+**Ranking T1**: https://pod2022b.github.io/
+
+**NOTAS:** [Planilha do Google](https://docs.google.com/spreadsheets/d/e/2PACX-1vR5A3_F4pVoOdSXzB9N7vnlPI3rMaQQzs3sBk0RF0P7LefUVoZk6vqZnuJWYH6TFc5Zng0KpSFylz6Q/pubhtml)
+
 ## Informações
 
 [Notas disponíveis aqui](notas-de-aula-pod-ufsm.pdf)
